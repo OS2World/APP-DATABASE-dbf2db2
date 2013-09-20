@@ -1,0 +1,821 @@
+00000820
+1998-04-12; 17:53:20; ROBERTO; ADD; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-12; 17:58:35; ROBERTO; ADD; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-12; 18:03:23; ROBERTO; CHG; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-12; 18:03:23; ROBERTO; ADD; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-12; 18:13:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 21:34:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:04:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:14:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:24:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:34:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:35:53; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:36:30; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:38:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:40:00; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:41:15; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:42:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:43:50; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:44:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:52:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:56:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 22:57:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:02:29; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:03:08; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:04:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:05:11; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:05:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:09:59; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:10:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:21:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:24:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:26:13; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:28:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:32:41; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:41:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:44:24; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-13; 23:48:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 21:34:55; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 21:36:56; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 21:40:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 21:50:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 22:30:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 22:50:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-14; 23:57:25; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:00:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:00:54; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:01:25; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:05:22; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:08:18; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:12:28; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:14:45; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:23:19; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:26:06; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:28:55; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:29:45; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:32:36; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:34:46; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:37:45; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 00:39:24; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:01:18; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:04:22; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:05:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:06:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:08:05; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:08:38; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:10:13; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:10:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:13:59; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:14:36; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:15:42; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:17:09; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:37:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:37:36; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:39:52; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:40:57; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 22:43:59; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:17:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:18:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:20:09; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:23:04; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:25:00; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:27:55; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:30:00; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:38:47; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:40:47; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:41:53; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:42:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:43:42; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:44:31; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:46:27; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-15; 23:47:21; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 00:52:27; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 00:54:39; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 00:57:16; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 00:58:22; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:21:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:29:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:30:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:35:11; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:41:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:45:30; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:51:06; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:51:37; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 18:58:15; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:05:00; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:10:42; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:17:39; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:21:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:25:04; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:25:45; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:31:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:32:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:33:11; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:41:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:55:49; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 19:57:32; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 20:09:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 20:16:41; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 20:46:14; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 20:47:46; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 20:51:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:01:11; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:37:42; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:38:56; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:42:21; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:45:33; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:49:54; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 21:59:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:01:41; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:08:54; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:14:47; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:20:26; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:21:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:21:59; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:28:09; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:32:15; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:35:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:36:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:39:14; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:40:33; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:40:55; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:41:50; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:48:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:49:54; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:51:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 22:54:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:11:42; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:13:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:17:53; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:18:39; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:21:05; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:27:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:31:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:34:31; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-17; 23:46:17; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 00:04:00; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 15:58:31; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 16:00:57; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 16:48:09; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 16:52:01; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 17:40:22; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 17:40:55; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 17:44:13; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 17:45:34; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 17:55:16; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:08:07; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:17:06; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:21:39; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:28:02; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:32:13; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:35:33; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:37:05; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:48:02; ROBERTO; CHG; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-18; 18:48:02; ROBERTO; CHG; DATOSADB2\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-18; 18:58:02; ROBERTO; CHG; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-18; 19:08:02; ROBERTO; CHG; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-18; 19:18:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:28:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:38:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:43:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:45:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:48:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:48:38; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:52:20; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:55:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:56:32; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 19:58:02; ROBERTO; CHG; DATOSADB2\Main-Form layout; ; <Main\Form>
+1998-04-18; 20:01:47; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:02:53; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:03:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:04:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:09:47; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:10:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:11:24; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:18:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:21:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:24:13; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:47:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 20:48:45; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 21:20:31; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 21:27:40; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 21:45:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 21:55:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:25:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:35:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:37:34; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:40:54; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:50:06; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 22:56:28; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-18; 23:00:18; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 00:53:02; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 00:53:46; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 11:16:48; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 11:27:57; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 11:43:23; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 12:11:16; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 12:47:21; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 12:51:28; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 14:07:53; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 15:25:43; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 15:32:33; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 16:48:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 16:49:50; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 16:54:07; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 16:58:58; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:01:20; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:05:51; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:12:50; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:24:05; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:33:10; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 17:40:48; ROBERTO; CHG; DATOSADB2\Main-Event Ejecutar  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-19; 21:41:16; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-04-19; 21:41:17; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-19; 22:44:23; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:13:13; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:27:50; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:31:11; ROBERTO; CHG; DATOSADB23\Main-Event Procedure files, checkerr; ; <SUBPROCS\checkerr>
+1998-04-22; 23:31:21; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:32:42; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:32:53; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:35:04; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:36:21; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-22; 23:43:32; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 22:44:08; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-04-24; 22:52:07; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-04-24; 23:02:07; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 23:52:07; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 23:53:40; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 23:54:12; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 23:59:35; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-24; 23:59:51; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:00:30; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:03:51; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:06:13; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:13:32; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:19:13; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:22:07; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:30:22; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 00:32:07; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 18:05:24; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 18:05:41; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 18:06:33; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 18:06:57; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:00:51; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:02:26; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:04:24; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:04:48; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:05:27; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:07:54; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 19:57:46; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-25; 19:58:09; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-25; 20:00:16; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-25; 21:28:38; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-25; 21:32:17; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-25; 23:25:46; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 23:31:27; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-04-25; 23:42:41; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-25; 23:43:33; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 23:51:36; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-25; 23:53:33; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-04-25; 23:53:33; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 00:00:06; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 00:01:30; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 00:02:08; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 00:23:56; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-26; 00:24:07; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 01:24:31; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 01:31:13; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-04-26; 01:38:15; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-26; 01:58:05; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-26; 02:01:34; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-04-26; 02:14:41; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-01; 18:11:20; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:12:08; ROBERTO; ADD; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:12:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:13:08; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:13:23; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:13:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:14:08; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:14:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:14:53; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:15:08; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:15:23; ROBERTO; CHG; DATOSADB23\NOMBREDB-Form layout; ; <NOMBREDB\Form>
+1998-05-01; 18:18:23; ROBERTO; ADD; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:19:23; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:19:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:20:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:20:53; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:21:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:28:05; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:29:43; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:30:38; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:30:53; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:31:23; ROBERTO; CHG; DATOSADB23\NOMBREDB-Event CONTINUAR  1002, Clicked/selected; ; <NOMBREDB\1002.0>
+1998-05-01; 18:31:53; ROBERTO; ADD; DATOSADB23\NOMBREDB-Event Form events, Opened; ; <NOMBREDB\Form.1>
+1998-05-01; 18:34:38; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:36:37; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:46:27; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 18:46:27; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 18:47:27; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 18:56:48; ROBERTO; CHG; DATOSADB23\Main-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-01; 18:58:53; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-01; 19:02:11; ROBERTO; CHG; DATOSADB23\Main-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-01; 19:02:58; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 19:03:17; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 19:03:51; ROBERTO; CHG; DATOSADB23\Main-Event Importar cabecera  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-01; 19:04:43; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-01; 19:16:44; ROBERTO; CHG; DATOSADB23\Main-Event Importar solo datos  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-01; 19:35:55; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 21:05:55; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 21:15:55; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 23:35:55; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-01; 23:35:55; ROBERTO; ADD; DATOSADB23\Main-Menubar; ; <Main\Menu>
+1998-05-01; 23:35:55; ROBERTO; ADD; DATOSADB23\Main-Accelerator keys; ; <Main\Form.acc>
+1998-05-01; 23:44:13; ROBERTO; CHG; DATOSADB23\Main-Menubar; ; <Main\Menu>
+1998-05-01; 23:44:13; ROBERTO; CHG; DATOSADB23\Main-Accelerator keys; ; <Main\Form.acc>
+1998-05-01; 23:44:14; ROBERTO; ADD; DATOSADB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-01; 23:44:51; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, Exit; ; <Main\259.0>
+1998-05-02; 00:11:17; ROBERTO; DEL; DATOSADB23\Main-Menu events - ~Import heads; ; <Main\257.0>
+1998-05-02; 00:11:20; ROBERTO; DEL; DATOSADB23\Main-Menu events - Import ~reg. only; ; <Main\258.0>
+1998-05-02; 00:11:37; ROBERTO; DEL; DATOSADB23\Main-Menu events - ~Exit; ; <Main\259.0>
+1998-05-02; 00:13:04; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Exit; ; <Main\256.0>
+1998-05-02; 00:13:21; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-02; 00:13:21; ROBERTO; CHG; DATOSADB23\Main-Menubar; ; <Main\Menu>
+1998-05-02; 00:13:21; ROBERTO; DEL; DATOSADB23\Main-Accelerator keys; ; <Main\Form.acc>
+1998-05-02; 00:19:51; ROBERTO; DEL; DATOSADB23\Main-Menu events - ~Exit; ; <Main\256.0>
+1998-05-02; 00:21:05; ROBERTO; CHG; DATOSADB23\Main-Menubar; ; <Main\Menu>
+1998-05-02; 00:21:05; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Exit; ; <Main\256.0>
+1998-05-02; 00:23:21; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-02; 00:24:19; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-02; 20:43:00; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-02; 20:44:16; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-02; 20:49:35; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-02; 20:50:08; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-02; 21:04:30; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-02; 21:05:11; ROBERTO; ADD; DATOSADB23\ayuda1e-Form layout; ; <ayuda1e\Form>
+1998-05-02; 21:05:27; ROBERTO; CHG; DATOSADB23\ayuda1e-Form layout; ; <ayuda1e\Form>
+1998-05-02; 21:05:57; ROBERTO; CHG; DATOSADB23\ayuda1e-Form layout; ; <ayuda1e\Form>
+1998-05-02; 21:05:57; ROBERTO; ADD; DATOSADB23\ayuda1e-Menubar; ; <ayuda1e\Menu>
+1998-05-02; 21:06:12; ROBERTO; CHG; DATOSADB23\ayuda1e-Menubar; ; <ayuda1e\Menu>
+1998-05-02; 21:06:27; ROBERTO; CHG; DATOSADB23\ayuda1e-Menubar; ; <ayuda1e\Menu>
+1998-05-02; 21:07:06; ROBERTO; ADD; DATOSADB23\ayuda1e-Menu events - Salir; ; <ayuda1e\257.0>
+1998-05-02; 21:07:27; ROBERTO; CHG; DATOSADB23\ayuda1e-Form layout; ; <ayuda1e\Form>
+1998-05-02; 21:07:42; ROBERTO; CHG; DATOSADB23\ayuda1e-Form layout; ; <ayuda1e\Form>
+1998-05-03; 14:06:21; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Details; ; <Main\261.0>
+1998-05-03; 14:42:44; ROBERTO; CHG; DATOSADB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 14:46:58; ROBERTO; CHG; DATOSADB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-03; 14:47:45; ROBERTO; CHG; DATOSADB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-03; 17:06:57; ROBERTO; CHG; DATOSADB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-03; 17:16:57; ROBERTO; CHG; DATOSADB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-03; 17:18:06; ROBERTO; CHG; DATOSADB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-03; 17:24:28; ROBERTO; CHG; DATOSADB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-03; 17:26:11; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-03; 18:02:20; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:03:27; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:04:56; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:05:29; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:26:48; ROBERTO; ADD; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:27:04; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:27:19; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:27:34; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:28:04; ROBERTO; ADD; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:28:19; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:28:34; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:28:49; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:29:19; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:39:51; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:42:19; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:42:34; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:42:49; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:42:57; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:43:20; ROBERTO; CHG; DATOSADB23\Main-Event Menu events, ~Product info ; ; <Main\262.0>
+1998-05-03; 18:44:04; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:45:02; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:45:19; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:49:34; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:49:49; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:49:55; ROBERTO; CHG; DATOSADB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 18:50:34; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:51:03; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:51:48; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:52:19; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:52:27; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:54:19; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:54:34; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:54:49; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:55:04; ROBERTO; ADD; DATOSADB23\FOTO-Event Clicked/selected - Close  1001; ; <FOTO\1001.0>
+1998-05-03; 18:59:04; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:59:17; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 18:59:45; ROBERTO; DEL; DATOSADB23\FOTO-Close  1001 - Clicked/selected; ; <FOTO\1001.0>
+1998-05-03; 18:59:49; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 19:00:04; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 19:09:32; ROBERTO; CHG; DATOSADB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 19:17:00; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-03; 19:19:09; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-03; 19:20:10; ROBERTO; CHG; DATOSADB23\Main-Form layout; ; <Main\Form>
+1998-05-03; 20:07:59; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:08:29; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:08:37; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:17:40; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:18:10; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 20:18:40; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 20:18:50; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 20:23:40; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:26:24; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:26:54; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:51:02; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:52:18; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 20:52:24; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-03; 21:20:23; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:20:38; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:21:49; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:23:08; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:23:18; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:23:53; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:24:00; ROBERTO; CHG; DT_DB23\FOTO-Form layout; ; <FOTO\Form>
+1998-05-03; 21:29:50; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:01:53; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:03:57; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:06:34; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:07:06; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:08:29; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:09:43; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:10:19; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:12:28; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:15:19; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:16:58; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:17:22; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:19:37; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:20:33; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:36:19; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:37:05; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:37:35; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:37:55; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-03; 23:39:35; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:11:57; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:12:12; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:14:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:14:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:15:12; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:15:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:15:39; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:17:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:17:57; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:18:02; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:19:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:19:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:27:02; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:29:37; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:30:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:31:12; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:31:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:32:04; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:35:25; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:38:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:38:48; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 21:42:46; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 21:44:39; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 21:59:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 21:59:55; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:00:25; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:01:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:01:57; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:02:21; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:02:27; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:02:36; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:02:51; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:03:42; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:03:51; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:05:21; ROBERTO; CHG; DT_DB23\FOTO-Event Form events, Opened; ; <FOTO\Form.1>
+1998-05-04; 22:06:27; ROBERTO; CHG; DT_DB23\FOTO-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-04; 22:06:42; ROBERTO; CHG; DT_DB23\FOTO-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-04; 22:20:48; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 22:38:06; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 22:38:21; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-04; 22:42:07; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 22:47:17; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 22:48:53; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-04; 22:54:26; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:31:10; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:34:15; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:41:10; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:46:00; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:51:10; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 21:56:22; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:03:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATABLAS; ; <SUBPROCS\BUSCATABLAS>
+1998-05-05; 22:04:34; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATABLAS; ; <SUBPROCS\BUSCATABLAS>
+1998-05-05; 22:10:24; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATABLAS; ; <SUBPROCS\BUSCATABLAS>
+1998-05-05; 22:14:47; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:20:24; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:22:46; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:23:35; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:30:24; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:31:15; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:37:02; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:50:13; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:54:38; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-05; 22:59:51; ROBERTO; ADD; DT_DB23\TABLAS-Form layout; ; <TABLAS\Form>
+1998-05-05; 23:00:36; ROBERTO; CHG; DT_DB23\TABLAS-Form layout; ; <TABLAS\Form>
+1998-05-05; 23:00:51; ROBERTO; CHG; DT_DB23\TABLAS-Form layout; ; <TABLAS\Form>
+1998-05-05; 23:00:52; ROBERTO; DEL; DT_DB23\TABLAS-Symbols; ; <TABLAS\Form.sym>
+1998-05-05; 23:01:06; ROBERTO; CHG; DT_DB23\TABLAS-Form layout; ; <TABLAS\Form>
+1998-05-05; 23:01:06; ROBERTO; ADD; DT_DB23\TABLAS-Symbols; ; <TABLAS\Form.sym>
+1998-05-06; 22:19:20; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATABLAS; ; <SUBPROCS\BUSCATABLAS>
+1998-05-06; 23:05:21; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATABLAS; ; <SUBPROCS\BUSCATABLAS>
+1998-05-06; 23:09:05; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-06; 23:10:22; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-06; 23:14:03; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-06; 23:18:57; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:22:36; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:24:19; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:25:43; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:26:54; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:28:05; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:28:35; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:29:55; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:31:57; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:32:31; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:35:43; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:36:40; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:38:51; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:40:38; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:43:02; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:43:49; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-06; 23:44:51; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:45:43; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:47:06; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:47:50; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:49:26; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:52:26; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:52:43; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:54:06; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:54:36; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:54:53; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-06; 23:56:27; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:00:31; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:01:05; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:02:31; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:03:29; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:05:58; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:07:25; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 00:08:38; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 20:47:31; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 20:51:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 20:51:33; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:36:57; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:37:40; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:39:08; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:40:26; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:41:42; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:44:53; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:50:03; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:50:40; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 21:51:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:01:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:02:42; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:03:41; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:03:58; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:04:47; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:06:06; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:07:10; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:16:40; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:19:32; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:21:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:26:01; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:31:14; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:32:37; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:36:59; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:39:08; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 22:50:56; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:28:13; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:28:46; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:33:13; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:34:07; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:35:17; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:36:51; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:38:13; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:45:05; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:46:05; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:50:17; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:51:40; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:59:03; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-07; 23:59:57; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:01:02; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:01:42; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:03:14; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:05:43; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:11:32; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:13:52; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:16:59; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:19:07; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:19:26; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:20:50; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:23:53; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:24:27; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:30:38; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:31:23; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:32:04; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 00:36:18; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 21:35:58; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-08; 21:42:59; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-08; 21:50:08; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-08; 22:10:08; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-08; 22:15:25; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:23:23; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:28:17; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:29:54; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:34:21; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-08; 22:35:59; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:37:09; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:37:41; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:38:21; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 22:40:48; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:10:08; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:10:31; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:11:15; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:15:04; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:52:00; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:52:34; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:53:41; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:58:24; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-08; 23:59:10; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 00:00:08; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 00:00:17; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 00:01:34; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 00:02:08; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 00:04:50; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:31:38; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:34:58; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:39:52; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:40:39; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:47:50; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 12:59:52; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 13:12:30; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 13:16:23; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 13:26:10; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 13:30:39; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, BUSCATAB; ; <SUBPROCS\BUSCATAB>
+1998-05-09; 13:37:23; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:39:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:40:29; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:42:47; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:46:31; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:51:37; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:55:02; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:56:46; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 13:59:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:00:55; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:03:35; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:04:48; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:09:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:11:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 14:29:52; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 14:30:57; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 14:33:49; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 14:35:06; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 14:37:54; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 15:24:10; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 15:30:11; ROBERTO; ADD; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-09; 15:30:51; ROBERTO; CHG; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-09; 15:31:45; ROBERTO; CHG; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-09; 15:32:22; ROBERTO; DEL; DT_DB23\Main-Form events - Expired; ; <Main\Form.5>
+1998-05-09; 15:36:11; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-09; 15:39:48; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 15:43:27; ROBERTO; CHG; DT_DB23\Main-Event Procedure files, CHECKDB2; ; <SUBPROCS\CHECKDB2>
+1998-05-09; 15:44:17; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 16:17:01; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-09; 16:17:01; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:18:28; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:21:18; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:24:26; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:25:40; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:28:48; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:29:52; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:31:01; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:33:46; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:35:13; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:37:43; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:39:39; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-09; 16:39:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 17:04:13; ROBERTO; CHG; DT_DB23\Main-Menubar; ; <Main\Menu>
+1998-05-09; 17:05:36; ROBERTO; CHG; DT_DB23\Main-Event Menu events, ~English; ; <Main\258.0>
+1998-05-09; 17:20:18; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 21:21:13; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 22:05:10; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 22:07:35; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 22:10:13; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 22:10:33; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 22:11:00; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 22:25:41; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-09; 22:34:06; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 22:36:02; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-09; 22:51:14; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-09; 22:51:47; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-10; 17:49:09; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 17:50:43; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 17:55:00; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 17:55:00; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-10; 17:57:45; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-10; 17:59:09; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 17:59:22; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-10; 18:04:48; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:08:39; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:11:58; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:12:13; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-10; 18:15:37; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:15:37; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-10; 18:18:59; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:20:53; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:24:30; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:27:55; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:29:16; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:36:32; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:39:12; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:45:15; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:47:08; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:51:29; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:53:07; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 18:54:08; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 19:18:51; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 19:37:03; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 19:42:21; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-10; 19:44:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-10; 19:45:41; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-10; 20:44:50; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 20:44:50; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-10; 20:47:10; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 20:48:33; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 20:58:34; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 20:59:42; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-10; 21:01:40; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-11; 22:32:07; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-11; 22:35:25; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-11; 22:36:56; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-11; 22:37:24; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-11; 22:39:15; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-11; 22:42:04; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-11; 22:43:32; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-11; 22:44:16; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-12; 21:04:36; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-12; 21:05:49; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 21:12:27; ROBERTO; CHG; DT_DB23\Main-Form global vars; ; <Main\Form.var>
+1998-05-12; 21:22:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:25:43; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:29:35; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-12; 21:32:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:35:01; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:36:39; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:39:02; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:42:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:43:41; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:44:29; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-12; 21:49:31; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:52:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:53:43; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 21:56:36; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:07:30; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:12:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:22:27; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:25:17; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:29:43; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:35:06; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:39:15; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:40:57; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:45:36; ROBERTO; CHG; DT_DB23\Main-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+1998-05-12; 22:48:12; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 22:48:52; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-12; 22:50:30; ROBERTO; CHG; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-12; 22:51:19; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-12; 23:01:34; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:05:06; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:08:52; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:15:09; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:16:25; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:21:08; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:24:03; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:24:30; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:25:11; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:28:29; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:29:37; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:31:36; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:34:28; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:35:18; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:36:36; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:38:06; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:38:56; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:42:27; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:48:11; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-12; 23:48:32; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-13; 22:03:18; ROBERTO; CHG; DT_DB23\Main-Form layout; ; <Main\Form>
+1998-05-13; 22:03:18; ROBERTO; CHG; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-13; 22:12:43; ROBERTO; CHG; DT_DB23\Main-Event Form events, Closed; ; <Main\Form.2>
+1998-05-14; 21:57:23; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+1998-05-14; 21:58:36; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-14; 22:03:07; ROBERTO; CHG; DT_DB23\Main-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+1998-05-14; 22:03:19; ROBERTO; CHG; DT_DB23\Main-Event Form events, Opened; ; <Main\Form.1>
+2000-09-27; 22:16:10; ROBERTO; CHG; DT_DB23\-Event Form events, Opened; ; <Main\FORM.1>
+2000-09-27; 22:17:21; ROBERTO; CHG; DT_DB23\-Event Form events, Opened; ; <Main\FORM.1>
+2003-10-18; 15:48:49; ROBERTO; CHG; DT_DB23\-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+2003-10-18; 16:04:22; ROBERTO; CHG; DT_DB23\-Event Add datum only  1001, Clicked/selected; ; <Main\1001.0>
+2003-10-18; 16:05:57; ROBERTO; CHG; DT_DB23\-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
+2003-10-18; 16:09:17; ROBERTO; CHG; DT_DB23\-Event Head import only  1010, Clicked/selected; ; <Main\1010.0>
