@@ -1,0 +1,4 @@
+/* Menu events - ~English */
+Arg window self
+
+view 'simpleuk.inf'

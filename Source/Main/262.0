@@ -1,0 +1,7 @@
+/* Menu events - ~Product info  */
+Arg window self
+
+     value=VpOpenForm(window, 257, value)
+
+
+

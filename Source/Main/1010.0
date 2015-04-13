@@ -1,0 +1,123 @@
+/* Event Clicked/selected - Importar cabecera  1010 */
+Arg window self
+CALL CHECKDB2 WINDOW
+
+value=vpgetitemvalue(window,1002)
+CAD2=''
+CALL SYSFILETREE VALUE,'FIL','F'
+/*SAY FIL.0 'FIL0'*/
+	IF FIL.0=0 THEN DO
+	response=VpMessageBox(window,'THE FILE NOT FOUND ' ,'I CAN NOT FOUND THIS FILE 'VPGETITEMVALUE(WINDOW,1002))
+	END
+
+DO I=1 TO FIL.0
+/*SAY FIL.I  LENGTH(FIL.I)*/
+/*SAY LASTPOS('\',FIL.I)*/
+
+FILO.I= SUBSTR(FIL.I , LASTPOS('\',FIL.I)+1 ,LENGTH(FIL.I)-LASTPOS('\',FIL.I))
+/*SAY FILO.I*/
+DBNAME=SUBSTR(VALUE,1,LASTPOS('\',VALUE))||FILO.I
+/*SAY DBNAMES DBNAME*/
+TAB1=SUBSTR(FILO.I,1,LENGTH(FILO.I)-4)
+/*SAY TAB1*/
+RC=rexxbase_opendbf('dbname')
+  call vpsetitemvalue window,1008,filo.i
+IF RC \='' THEN DO
+response=VpMessageBox(window,'FAIL OPEN FILE',' FINISH APLICATION,NO DBF,OR IS LOCK BY OTHER USER OR PROGRAM : '||filo.i 'ERROR REXXBASE='RC)
+END
+
+/****tabla seleccionada ****/
+/*say "TABLA " dbname*/
+CAD1='CREATE TABLE'
+CCAMPOS=DBNAME.FIELDCOUNT
+A=0
+DO WHILE CCAMPOS > A
+A=A+1
+
+NOMBRE.A=DBNAME.FIELDNAME.A
+ULTIMONOMBRE=NOMBRE.A
+/*SAY ULTIMONOMBRE*/
+RES.1= VALUE( DBNAME.ULTIMONOMBRE.TYPE)
+RES.2= VALUE(DBNAME.ULTIMONOMBRE.LENGTH)
+TIPO.A=RES.1
+LARGO.A=RES.2
+/*SAY NOMBRE.A TIPO.A LARGO.A CAMPO DBNAME*/
+
+END
+
+
+A=0
+DO WHILE CCAMPOS > A
+A=A+1
+
+SELECT
+   WHEN TIPO.A = 'C'
+      THEN
+      TIPO.A='CHAR('||LARGO.A||')'
+   WHEN TIPO.A = 'D'
+      THEN
+      TIPO.A ='DATE'
+   WHEN TIPO.A = 'L'
+   	THEN
+	TIPO.A='CHAR(1)'
+   WHEN TIPO.A = 'F'
+   	THEN
+   	TIPO.A ='FLOAT'	
+   WHEN TIPO.A = 'M'
+      THEN
+      TIPO.A ='LONG VARCHAR'
+   WHEN TIPO.A = 'N'
+      then
+      DO
+      /* transforma el numero en cadena */
+      temp=substr(largo.a,1,length(largo.a))
+      val=length(temp)
+      /* sustituye el punto decimal por una coma */
+      /********************************************/
+      DO WHILE val > 0
+      	if substr(temp,val,1)='.' then do
+      	temp=substr(largo.a,1,val-1)||','||substr(largo.a,val+1,1)
+      	temporal.a=temp
+      	end
+      	else
+      	do
+      	/* no tiene variacion por no tener decimales*/
+      	temporal.a=temp
+      	end
+      	val=val-1
+
+      END
+      TIPO.A ='DEC('||temporal.A||')'
+      END
+
+   OTHERWISE
+     response=VpMessageBox(window,'ERROR IN TYPE OF FIELD 'TIPO.A ,'IN THE TABLE '|| DBNAME NOMBRE.A ||' NUMBER,CHAR,ETC. FAIL CROSS')
+END
+CAD2=CAD2||NOMBRE.A TIPO.A||','
+/*SAY NOMBRE.A TIPO.A LARGO.A*/
+/*SAY CAD2*/
+END
+REXXBASE_CLOSEDBF('DBNAME')
+/* CREAR LA TABLA NUEVA EN DB2 SQL */
+CAD2=SUBSTR(CAD2,1,LENGTH(CAD2)-1)
+
+SUPERTABLA=CREATE TABLE SUBSTR(FILO.I,1,LENGTH(FILO.I)-4)||' ('|| CAD2||')'
+CAD2=''
+/*SAY SUPERTABLA*/
+call sqlexec 'EXECUTE IMMEDIATE :SUPERTABLA';
+/* check for SQL errors */
+	if (SQLCA.SQLCODE <> 0) then DO
+		IF (SQLCA.SQLCODE=-601) THEN DO
+		response=VpMessageBox(window,'THIS TABLE IS IN YOUR DB2','NOT CREATE 'TAB1)
+		END
+		ELSE
+        CALL VpMessageBox window, 'Error Running SQL : 'SQLCA.SQLCODE, SQLCA.SQLMSG
+        END
+	else do
+	end
+
+END
+response=VpMessageBox(window,'FINISH','APLICATION FINISHED')
+
+
+

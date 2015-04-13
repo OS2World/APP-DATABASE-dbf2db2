@@ -1,0 +1,55 @@
+/* Event Form events, Opened */
+Arg window 
+
+CALL VpWindow window,'DISABLESTDIO'
+/*value=VpOpenForm(window, 257, value)*/
+/**************************************************
+/* register the rexx functions */
+IF RXFUNCQUERY('SQLDBS')<>0 THEN
+do
+rc = rxfuncadd( 'SQLDBS', 'SQLAR', 'SQLDBS' );
+end
+IF RXFUNCQUERY('SQLEXEC')<>0 THEN
+do
+rc = rxfuncadd( 'SQLEXEC', 'SQLAR', 'SQLEXEC' );
+end
+
+/* start the dbase and run the SQL*/
+call sqldbs 'START DATABASE MANAGER';
+   IF (SQLCA.SQLCODE=0 | SQLCA.SQLCODE=-1026) THEN
+   DO
+   /*say rxxfu3nc rxfuncquery('sysloadfuncs')*/
+****************************************************/
+	     IF RXFUNCQUERY('SYSLOADFUNCS')<>0 THEN
+	       	CALL RXFUNCADD 'SYSLOADFUNCS','REXXUTIL','SYSLOADFUNCS'
+	       	CALL SYSLOADFUNCS
+	     	       	     	
+	     IF RXFUNCQUERY('REXXBASE_INIT')<>0 THEN
+	     call rxfuncadd rexxbase_init, 'REXXBASE', Rexxbase_Init
+	     RC=rexxbase_init()
+	     VER=REXXBASE.VERSION
+	     /*SAY VER*/
+
+	   IF RC<>'' THEN DO
+	      DO I=1 TO REXXBASE.ERROR.0
+	      SAY REXXBASE.ERROR.I
+	      END
+	   END
+
+	   rexxbase.SKIPDELETED=ON
+	   REXXBASE.UNIQUE=ON
+	   rexxbase.allowduplicateindexes=NO
+	   REXXBASE.FORMATDATE=OFF
+	   REXXBASE.DBASEFILEFORMAT="DBASE4"
+/*****************************	   
+   END
+   ELSE /*SI NO ARRANCA EL GESTOR DEL DB2 */
+   DO
+     CALL VpMessageBox window, 'Error  DB2 Starting Database : 'SQLCA.SQLCODE, SQLCA.SQLMSG
+
+     response=VpMessageBox(window,'ERROR DB2 starting','APLICATION FINISH')
+     EXIT   
+   END
+******************************/
+SOLOUNO=0
+CONTROL=1

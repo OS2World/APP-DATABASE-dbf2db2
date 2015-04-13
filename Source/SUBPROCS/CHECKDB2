@@ -1,0 +1,15 @@
+
+IF SOLOUNO=0 THEN DO
+SOLOUNO=1  
+ call sqldbs 'START USING DATABASE 'vpgetitemvalue(window,1011)' IN SHARED MODE';
+  /* check for SQL errors */
+  if (SQLCA.SQLCODE <> 0) then 
+  	DO
+	     CALL VpMessageBox window, 'Error Not found Database : 'vpgetitemvalue(window,1011) SQLCA.SQLCODE, SQLCA.SQLMSG
+	     EXIT
+	END
+	  ELSE
+	  DO
+	  /*ES OK*/
+	  END
+END /*SOLOUNO*/

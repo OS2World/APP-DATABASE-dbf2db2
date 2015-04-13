@@ -1,0 +1,4 @@
+/* Menu events - ~Details */
+Arg window self
+
+view 'simple.inf'

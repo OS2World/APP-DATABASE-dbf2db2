@@ -1,0 +1,299 @@
+
+/* Event Ejecutar  1001, Clicked/selected */
+Arg window self
+CALL CHECKDB2 WINDOW
+CAD2=''
+value=vpgetitemvalue(window,1002)
+          /**/
+CALL SYSFILETREE value,'FIL','F'
+	IF FIL.0=0 THEN DO
+	response=VpMessageBox(window,'THE FILE NOT FOUND ' ,'I CAN NOT FOUND THIS FILE 'VPGETITEMVALUE(WINDOW,1002))
+	END
+
+  DO I=1 TO FIL.0
+  /*SAY FIL.I  LENGTH(FIL.I)*/
+  /*SAY LASTPOS('\',FIL.I)*/
+  FILO.I= SUBSTR(FIL.I , LASTPOS('\',FIL.I)+1 ,LENGTH(FIL.I)-LASTPOS('\',FIL.I))
+  /*SAY FILO.I*/
+  /*END*/
+  /*dbname = 'D:\madrid\dbo\'||FILO.I*/
+  DBNAME=SUBSTR(VALUE,1,LASTPOS('\',VALUE))||FILO.I
+  /*say dbnames dbname*/
+  call vpsetitemvalue window,1008,filo.i	
+    RC=rexxbase_opendbf('dbname')
+
+    IF RC \='' THEN DO
+    /*SAY OPEN ERROR RC*/
+    response=VpMessageBox(window,'Fail open the file',' Aplication finish,do not file dbf,or is lock by another program: '||filo.i 'with ERROR REXXBASE=' RC)
+    exit
+    END
+  /*rc=vpsetitemstyle(window,1013,"details")*/
+  /*CALL VpSetItemValue window,1015,value*/
+
+  /****tabla seleccionada ****/
+  /*say "TABLA " dbname*/
+  CAD1='CREATE TABLE'
+  CAD2=''
+  CCAMPOS=DBNAME.FIELDCOUNT
+  A=0
+	DO WHILE CCAMPOS > A
+	A=A+1
+	NOMBRE.A=DBNAME.FIELDNAME.A
+	ULTIMONOMBRE=NOMBRE.A
+	RES.1= VALUE( DBNAME.ULTIMONOMBRE.TYPE)
+	RES.2= VALUE(DBNAME.ULTIMONOMBRE.LENGTH)
+	TIPO.A=RES.1
+	LARGO.A=RES.2
+	END
+
+
+	A=0
+	DO WHILE CCAMPOS > A
+	A=A+1
+
+	CAD2=CAD2||NOMBRE.A TIPO.A||','
+	/*SAY NOMBRE.A TIPO.A LARGO.A*/
+	/*SAY CAD2*/
+	END
+/** FIN DE RECOGIDA DE LA CABECERA DE TABLA ***/
+/** COMIENZO DE RECOGIDA Y TRASPASO DE DATOS **/
+REGNUM=0
+REGNUMEROS=0
+SALIRPORBOF=0
+RET=''
+DO while RET <> BOF
+ IF SALIRPORBOF=1 THEN DO
+ SALIRPORBOF=0
+ REXXBASE_CLOSEDBF('DBNAME')
+ LEAVE /*TERMINA EL CICLO RET=BOF*/
+ END
+
+
+RET=REXXBASE_READDBF('DBNAME')
+if ret <>BOF then
+do
+
+/*REGISTROS LEIDOS REGNUM*/
+REGNUM=REGNUM+1
+call vpsetitemvalue window,1003,REGNUM
+	A=0
+	resumen=''
+	RESULTADO=''
+	DO WHILE CCAMPOS > A
+		A=A+1
+		RES.3=''
+		dt.0=ccampos
+		RESULTADO=NOMBRE.A
+		/*SAY RESULTADO "***RESULTADO"*/
+		RES.3="DBNAME."||RESULTADO
+		DT.A=VALUE(RES.3)
+		/*SAY DT.A "DT.A**"*/
+		/*if length(dt.a)=0 then dt.a=' '*/
+
+		/*resumen=resumen||"'"||dt.a||"',"*/
+			/*SAY TIPO.A NOMBRE.A*/
+			SELECT
+			   WHEN TIPO.A = 'C'
+			      THEN    DO
+				      /*TIPO.A='CHAR('||LARGO.A||')'*/
+				      if pos("'",dt.a)<>0 then
+				        do
+				        /*quitarle todas las alt39 y sustituirlas por alt239*/
+				        nueva=''
+				          do index = 1 to length(dt.a)
+				          val=substr(dt.a,index,1)
+				            if c2d(val)=39 then
+				              do
+				              val=d2c(239)
+				              nueva=nueva||val
+				              end
+				            /*busca otro caracter*/
+				            else
+				              do
+				              nueva=nueva||val
+				              end
+				          end /* end do */
+					dt.a=nueva
+					resumen=resumen||"'"||dt.a||"',"
+					end
+				      else
+				        do
+       				        resumen=resumen||"'"||dt.a||"',"
+       				        end
+				      END
+			   WHEN TIPO.A = 'D'
+			      THEN    DO
+	 			      /*TIPO.A ='DATE'*/
+				      /*resumen=resumen||"'"||dt.a||"',"*/
+				        IF DT.A='' THEN DO
+				        		/*DT.A='0001-01-01'*/
+				        		DT.A=NULL
+				        		/*resumen=resumen||"'"||dt.a||"',"*/
+				        		RESUMEN=RESUMEN||DT.A||","
+				        		END
+				        ELSE DO
+				
+				             FECH=DT.A /*AAAAMMDD*/
+				             FECH=SUBSTR(DT.A,1,4)||'-'||SUBSTR(DT.A,5,2)||'-'||SUBSTR(DT.A,7,2)
+				             DT.A=FECH
+				             resumen=resumen||"'"||dt.a||"',"
+				             END
+				      END
+			   WHEN TIPO.A = 'L'
+   				THEN DO
+   					/*TIPO.A='CHAR(1)'*/
+					IF DT.A='' THEN DT.A='T'
+					resumen=resumen||"'"||dt.a||"',"
+				     END
+			   WHEN TIPO.A = 'F'
+			   	THEN DO
+			        IF DT.A='' THEN DT.A=NULL
+			        RESUMEN=RESUMEN||DT.A||","
+			   	END	     
+			   WHEN TIPO.A = 'M'
+			      THEN DO
+      				      if pos("'",dt.a)<>0 then
+				        do
+				        /*quitarle todas las alt39 y sustituirlas por alt239*/
+				        nueva=''
+				          do index = 1 to length(dt.a)
+				          val=substr(dt.a,index,1)
+				            if c2d(val)=39 then
+				              do
+				              val=d2c(239)
+				              nueva=nueva||val
+				              end
+				            /*busca otro caracter*/
+				            else
+				              do
+				              nueva=nueva||val
+				              end
+				          end /* end do */
+					dt.a=nueva
+					resumen=resumen||"'"||dt.a||"',"
+					end
+				      else
+				        do
+       				        resumen=resumen||"'"||dt.a||"',"
+       				        end
+
+			      		/****MEMO***
+			           /*TIPO.A ='LONG VARCHAR'*/
+			           resumen=resumen||"'"||dt.a||"',"
+			           *****MEMO****/
+			           END			
+			   WHEN TIPO.A = 'N' 
+			      then
+			      DO
+			      IF DT.A='' THEN DT.A=NULL
+			      RESUMEN=RESUMEN||DT.A||","
+			   END
+
+			   OTHERWISE
+			   response=VpMessageBox(window,'ERROR in field','in the table '|| DBNAME NOMBRE.A ||' type field unknown,number,char,ETC. THIS TABLE FAIL CROSS 'A,'OKCNCL')
+				IF RESPONSE<>'OK' THEN 
+				DO
+				EXIT
+				END	
+			END
+
+	END
+	resumen=substr(resumen,1,length(resumen)-1)
+	/*say LENGTH(resumen)*/
+	/*SAY  REGNUM RESUMEN*/
+	/* prepare the SQL string */
+	/*tab1 es el nombre de la tabla.dbf*/
+	TAB1=SUBSTR(FILO.I,1,LENGTH(FILO.I)-4)
+	prep_string = "INSERT INTO ",
+		    tab1,
+		    "VALUES (",
+                    RESUMEN")"
+        call sqlexec 'EXECUTE IMMEDIATE :prep_string';
+/* check for SQL errors */
+     if (SQLCA.SQLCODE <> 0) then
+     DO
+  	IF (SQLCA.SQLCODE\=-204) THEN
+ 	DO 
+ 	/*SAY PREP_STRING*/
+ 	/*SAY SQLCA.SQLCODE     */
+     	CALL VpMessageBox window, 'Error EXECUTE INSERT : 'SQLCA.SQLCODE, SQLCA.SQLMSG
+     	response=VpMessageBox(window,'ERROR REG. CROSS',RESUMEN,'OKCNCL')
+     	/*SAY RESPONSE*/
+   		IF RESPONSE<>'OK' THEN
+   		DO
+   		EXIT
+   		END
+      	
+        END
+        ELSE DO /* SI SQL=-204*/
+        /*CHEQUEAR QUE USUARIO QUE A CREADO LA TABLA PUEDE NO SER EL MISMO 
+        QUE UTILAZA ESTA APLICACION*/
+        response=VpMessageBox(window,'NO EXISTE LA TABLA EN DB2','NO EXISTE LA TABLA 'TAB1 ' PARA ESTE USUARIO. NO SE TRASPASARA NINGUN REGISTRO DE ESTA TABLA')
+	SALIRPORBOF=1/*RET='BOF'*/
+        /*CALL BUSCATAB WINDOW */
+        END
+     END        
+     else
+     do /*SI SQL=0*/
+
+     /*REGISTROS GRABADOS REGNUMEROS*/
+     /* QUITAR LIMITACION PARA LA VERSION COMPLETA */
+     /**********INICIO NO REGISTER****
+		/*if regnumeros>999 then do*/
+		/*(-1) NO PUEDE DARSE NUNCA, anulado el registro 18/10/2003*/
+		if regnumeros<-1 then do
+		prep_string="ROLLBACK"
+		REGNUMEROS=REGNUMEROS-1
+			IF CONTROL=1 THEN DO
+			response=VpMessageBox(window,'ATENTION! ','NO MORE RECORDS COPY, YOU NEED REGISTER SOFTWARE')
+			CONTROL=0
+			END
+		end
+		ELSE DO
+		prep_string = "COMMIT"
+     		END
+     	**************FIN NO REGISTER *******/
+     prep_string="COMMIT"
+     
+     call sqlexec 'EXECUTE IMMEDIATE :prep_string';
+     /* check for SQL errors */
+        if (SQLCA.SQLCODE <> 0) then DO
+   	CALL VpMessageBox window, 'Error Running  COMMIT SQL : 'SQLCA.SQLCODE, SQLCA.SQLMSG
+        end
+        else
+        do
+        REGNUMEROS=REGNUMEROS+1
+        call vpsetitemvalue window,1004,REGNUMEROS
+
+        end /*if sqlca<>0*/
+
+     end
+   	
+/*if ret=BOF then exit*/
+end /*if ret<>bof*/
+else /*if ret<>bof */
+do
+/*terminar y coger otra tabla si hay*/
+REXXBASE_CLOSEDBF('DBNAME')
+
+/*SAY LEIDOS REGNUM*/
+/*SAY GRABADOS REGNUMEROS*/
+	IF REGNUM<>REGNUMEROS THEN
+	DO
+	/*DISTINTO NUMERO DE REGISTROS LEIDOS Y GRABADOS*/
+	response=VpMessageBox(window,'ERROR WITH TABLE 'FILO.I,'WRITE IT, LOSS 'REGNUM-REGNUMEROS)
+
+	END
+	ELSE
+	DO
+	REGNUM=0
+	REGNUMEROS=0
+	END
+
+end
+END /*DO WHILE RET<>BOF*/
+
+
+END /* de I=1 to fil.0 */
+response=VpMessageBox(window,'FINISH','APLICATION FINISHED')
+

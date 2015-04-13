@@ -1,0 +1,13 @@
+/* Event Form events, Closed */
+Arg window 
+
+CALL SQLEXEC CONNECT RESET
+if (SQLCA.SQLCODE <> 0) then DO
+	IF (SQLCA.SQLCODE=-1024) THEN DO
+	EXIT
+	END
+	ELSE
+	DO
+CALL VpMessageBox window, 'Error CONNECT RESET : 'SQLCA.SQLCODE, SQLCA.SQLMSG
+	END
+end
